@@ -1,3 +1,4 @@
+baseurl: "/foo-site"
 collections:
   authors:
     output: true
